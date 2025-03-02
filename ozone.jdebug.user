@@ -1,0 +1,38 @@
+
+
+
+Breakpoint=E:/wibot/project/aq/aq23619/sw/main/App/app.cpp:123:23, State=BP_STATE_DISABLED
+GraphedExpression="adcValue[0]", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#e56a6f
+OpenDocument="main.c", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/Core/Src/main.c", Line=48
+OpenDocument="adc.c", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/Core/Src/adc.c", Line=78
+OpenDocument="app.cpp", FilePath="E:/wibot/project/aq/aq23619/sw/main/App/app.cpp", Line=98
+OpenDocument="lp.cpp", FilePath="E:/wibot/project/aq/aq23619/sw/main/libs/wibotlib4arm/src/control/filter/lp.cpp", Line=0
+OpenDocument="BatCapLed.cpp", FilePath="E:/wibot/project/aq/aq23619/sw/main/App/BatCapLed.cpp", Line=0
+OpenDocument="ozone.jdebug", FilePath="E:/wibot/project/aq/aq23619/sw/main/ozone.jdebug", Line=0
+OpenDocument="std_function.h", FilePath="C:/ST/STM32CubeCLT/GNU-tools-for-STM32/arm-none-eabi/include/c++/11.3.1/bits/std_function.h", Line=246
+OpenDocument="tim.c", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/Core/Src/tim.c", Line=87
+OpenDocument="pin.cpp", FilePath="E:/wibot/project/aq/aq23619/sw/main/libs/wibotlib4arm/src/chip/stm32/pin.cpp", Line=0
+OpenDocument="stm32g0xx_hal_gpio.c", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c", Line=386
+OpenDocument="startup_stm32g031xx.s", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/startup_stm32g031xx.s", Line=39
+OpenDocument="app-framework.cpp", FilePath="E:/wibot/project/aq/aq23619/sw/main/libs/wibotlib4arm/src/app/app-framework.cpp", Line=0
+OpenDocument="stm32g0xx_it.c", FilePath="E:/wibot/project/aq/aq23619/sw/main/cubemx/Core/Src/stm32g0xx_it.c", Line=66
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=BOTTOM, x=1, y=0, w=199, h=276, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=272, h=221, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=272, h=118, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Global Data", DockArea=BOTTOM, x=0, y=0, w=241, h=276, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Local Data", DockArea=BOTTOM, x=2, y=0, w=256, h=276, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=196, h=638, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Terminal", DockArea=BOTTOM, x=3, y=0, w=259, h=276, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=2, w=272, h=297, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Local Data", SortCol="Name", SortOrder="DESCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Access";"Scope"], ColWidths=[220;142;110;100;174;27;100]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Class";"Source"], ColWidths=[959;100;100;100;27;238]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[150;118;100;100;190;100]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" adcValue[0]"], ColWidths=[100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[168;126;100;100;100;100;100;107;107]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[134;118;259]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Access";"Scope"], ColWidths=[220;154;100;100;100;27;231]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;762]
